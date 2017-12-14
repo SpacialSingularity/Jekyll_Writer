@@ -1,6 +1,6 @@
 # Created by Jekyll Writer
-title: Test of Jekyll Writer
-author: Jekyll Writer
+title: A Simpler Blog
+author: No Any Name
 baseurl: /Jekyll_Writer
-permalink: '/:year/:month/:day/:title/'
+permalink: '/:catagory/:title/'
 url: ''
