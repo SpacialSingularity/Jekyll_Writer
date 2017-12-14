@@ -91,11 +91,11 @@ tags: 'Note, Mechanics, Ordinary'
 不难发现，不仅限于保守力，对于形式如 ![TeX](https://math.jekyllwriter.com/?q=Q_%5Calpha%3D-%5Cfrac%7B%5Cpartial%20U(q%2C%5Cdot%7Bq%7D)%7D%7B%5Cpartial%20q_%5Calpha%7D%2B%5Cfrac%7Bd%7D%7Bdt%7D%5Cfrac%7B%5Cpartial%20U(q%2C%5Cdot%7Bq%7D)%7D%7B%5Cpartial%20%5Cdot%7Bq_%5Calpha%7D%7D) 的相互作用，上式同样能够描述，这个关于广义坐标、广义速度的函数 ![TeX](https://math.jekyllwriter.com/?q=U(q%2C%5Cdot%7Bq%7D)) 称为广义势能。
 实际上，电磁力正是一类可以化为上述广义势能形式的相互作用，用电势 ![TeX](https://math.jekyllwriter.com/?q=%5Cvarphi) 和磁矢势 ![TeX](https://math.jekyllwriter.com/?q=%5Coverset%7B%5Crightharpoonup%7D%7BA%7D) 可以写出包含这一广义势能函数的拉格朗日函数 ![TeX](https://math.jekyllwriter.com/?q=%5Cmathcal%7BL%7D%3D%5Cfrac%7B1%7D%7B2%7Dm%5Coverset%7B%5Crightharpoonup%7D%7Bv%7D%5E2-e%5Cvarphi%2Be%5Coverset%7B%5Crightharpoonup%7D%7Bv%7D%5Ccdot%5Coverset%7B%5Crightharpoonup%7D%7BA%7D) ，相应的运动方程是 ![TeX](https://math.jekyllwriter.com/?q=m%5Cddot%7B%5Coverset%7B%5Crightharpoonup%7D%7Br%7D%7D%3De(%5Coverset%7B%5Crightharpoonup%7D%7BE%7D%2B%5Coverset%7B%5Crightharpoonup%7D%7Bv%7D%5Ctimes%5Coverset%7B%5Crightharpoonup%7D%7BB%7D)) .
 
-##  
+## ·
 注：有些概念是现场定义的、甚至没有定义，因为先按直觉理解也无妨。
 注：文中的“广义坐标”一直指代的是先前选取的独立的广义坐标，称为第II类广义坐标。实际上，广义坐标也可以是不独立的，笛卡尔坐标也是广义坐标。
 
-##总结
+## 总结
 
 我们从牛顿力学出发，先利用虚位移的概念预先消去一类常见的约束——理想约束，从而得到达朗贝尔原理，这时之前已经消去的约束方程蕴含在虚位移有限的任意性中。
 
