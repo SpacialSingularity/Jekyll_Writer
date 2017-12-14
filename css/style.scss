@@ -585,21 +585,21 @@ pre {
     font-size: 1rem;
   }
   h2 {
-    font-size: 16px;
+    font-size: 24px;
+    @include media-query($on-laptop) {
+      font-size: 28px;
+    }
+  }
+  h3 {
+    font-size: 20px;
     @include media-query($on-laptop) {
       font-size: 24px;
     }
   }
-  h3 {
-    font-size: 14px;
-    @include media-query($on-laptop) {
-      font-size: 21px;
-    }
-  }
   h4 {
-    font-size: 12px;
+    font-size: 16px;
     @include media-query($on-laptop) {
-      font-size: 18px;
+      font-size: 20px;
     }
   }
 }
