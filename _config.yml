@@ -1,7 +1,14 @@
 # Created by Jekyll Writer
 title: A Simpler Blog
 author: No Any Name
+description: Testing...
+baseurl: /Jekyll_Writer
 permalink: '/:year/:month/:day/:title/'
 paginate: 6
 paginate_path: '/page/:num/'
-baseurl: /Jekyll_writer
+twitter_username: jekyllwriter
+github_username: jekyllwriter
+gems:
+  - jekyll-paginate
+markdown: kramdown
+url: ''
