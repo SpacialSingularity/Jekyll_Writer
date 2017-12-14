@@ -7,7 +7,7 @@
 
 // Our variables
 $base-font-family: "PT Sans", Helvetica, Arial, sans-serif;
-$base-font-size:   10px;
+$base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -569,13 +569,13 @@ pre {
   margin-bottom: $spacing-unit;
 }
 .post-title {
-  font-size: 62px;
+  font-size: 42px;
 
   text-align: center;
   font-family: "PT Sans";
   font-weight: 900;
   @include media-query($on-laptop) {
-    font-size: 36px;
+    font-size: 16px;
   }
 }
 .post-content {
@@ -585,19 +585,19 @@ pre {
     font-size: 1.5rem;
   }
   h2 {
-    font-size: 32px;
+    font-size: 16px;
     @include media-query($on-laptop) {
-      font-size: 28px;
+      font-size: 24px;
     }
   }
   h3 {
-    font-size: 26px;
+    font-size: 14px;
     @include media-query($on-laptop) {
-      font-size: 22px;
+      font-size: 21px;
     }
   }
   h4 {
-    font-size: 20px;
+    font-size: 12px;
     @include media-query($on-laptop) {
       font-size: 18px;
     }
