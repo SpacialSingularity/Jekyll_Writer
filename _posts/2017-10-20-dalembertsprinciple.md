@@ -48,7 +48,7 @@ tags: 'Note, Mechanics, Ordinary'
 
 我们的力学规律是基于位矢 ![TeX](https://math.jekyllwriter.com/?q=%5Coverset%7B%5Crightharpoonup%7D%7Br%7D) 的，通过确定系统的位置与速度来预测运动（此外还要知道相互作用的形式）。现在要选取相互独立的广义坐标就要用广义坐标给出位矢，具体的表达式取决于广义坐标。在此后的推导中，我们认为这个关系是已知的一个函数： ![TeX](https://math.jekyllwriter.com/?q=%5Coverset%7B%5Crightharpoonup%7D%7Br%7D%3D%5Coverset%7B%5Crightharpoonup%7D%7Br%7D(q_1%2Cq_2%2C%5Cdots%2Cq_s)) ，其中 ![TeX](https://math.jekyllwriter.com/?q=q_%5Calpha%5Cquad(%5Calpha%3D1%2C2%2C%5Cdots%2Cs)) 是广义坐标， ![TeX](https://math.jekyllwriter.com/?q=s) 称为自由度（仅当广义坐标相互独立）。
 
-##拉格朗日方程(Lagrange's Equations)
+## 拉格朗日方程(Lagrange's Equations)
 
 现在我们有了达朗贝尔原理和广义坐标，他们从不同角度消去变量（分别是约束力和坐标）。达朗贝尔原理式中涉及关于虚位移的矢量运算，而实际上我们更希望能够开始像牛顿第二定律一样直接列写微分方程，而且是列写数量足够少的、关于广义坐标的微分方程组。
 
