@@ -1,14 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-12-18 21:45:10 +0800
+title:  "Hello World!"
+date:   2017-12-14 20:22 (GMT+8)
 tags:
-  - Mailbox
-  - Theme
-categories:
-  - Theme
+  - Learning to Write
   - Jekyll Writer
----
-It's a long time question for me, what default theme of Jekyll Writer looks like? Days ago, Mailbox had gone. Today I copied the design of [Mailbox official blog](https://blogs.dropbox.com/mailbox/) for our default theme to remember this great app. Thanks Mailbox team.
+categories:
+  - Learning to Write
 
-This theme is published under MIT License, I hope you may like it =)
+---
+在我学会使用其他模版之前，我将使用 Jekyll Writer 来发表文章。
+
+你好，世界。
+
+感谢开发者。
