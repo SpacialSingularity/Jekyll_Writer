@@ -1,7 +1,6 @@
 # Created by Jekyll Writer
-title: Your awesome title
+title: Test of Jekyll Writer
 author: Jekyll Writer
+baseurl: /Jekyll_Writer
 permalink: '/:year/:month/:day/:title/'
-paginate: 6
-paginate_path: '/page/:num/'
-baseurl: /Jekyll_writer
+url: ''
