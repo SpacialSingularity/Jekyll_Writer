@@ -1,6 +1,7 @@
 # Created by Jekyll Writer
 title: A Simpler Blog
 author: No Any Name
-baseurl: /Jekyll_Writer
-permalink: '/:catagory/:title/'
-url: ''
+permalink: '/:year/:month/:day/:title/'
+paginate: 6
+paginate_path: '/page/:num/'
+baseurl: /Jekyll_writer
