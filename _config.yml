@@ -1,6 +1,10 @@
 # Created by Jekyll Writer
-title: MicroBlog
-author: Jekyll Writer
-description: 'Something personal, which is not valuable.'
+title: Of Course I'm Jokking
+author: asd1dsa
+description: 'Something personal, which is not valueable.'
+baseurl: /MicroBlog
 permalink: '/:year/:month/:day/:title/'
+paginate: 6
+paginate_path: '/page/:num/'
 markdown: kramdown
+url: ''
