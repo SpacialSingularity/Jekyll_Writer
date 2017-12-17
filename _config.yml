@@ -2,7 +2,7 @@
 title: Of Course I'm Jokking
 author: asd1dsa
 description: 'Something personal, which is not valueable.'
-baseurl: /MicroBlog
+baseurl: /Jekyll_Writer
 permalink: '/:year/:month/:day/:title/'
 paginate: 6
 paginate_path: '/page/:num/'
