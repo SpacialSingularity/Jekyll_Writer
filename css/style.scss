@@ -582,24 +582,24 @@ pre {
   margin-bottom: $spacing-unit;
   padding-bottom: 3em !important;
   p {
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
   h2 {
-    font-size: 32px;
+    font-size: 1.5rem;
     @include media-query($on-laptop) {
-      font-size: 28px;
+      font-size: 1.4rem;
     }
   }
   h3 {
-    font-size: 26px;
+    font-size: 1.4rem;
     @include media-query($on-laptop) {
-      font-size: 22px;
+      font-size: 1.3rem;
     }
   }
   h4 {
-    font-size: 20px;
+    font-size: 1.3rem;
     @include media-query($on-laptop) {
-      font-size: 18px;
+      font-size: 1.2rem;
     }
   }
 }
