@@ -1,8 +1,6 @@
 # Created by Jekyll Writer
-title: A Simpler Blog
-email: NoAnyPurpose@gmail.com
-description: 'Physics, Technology, Myself'
-baseurl: /Jekyll_Writer
-url: ''
-permalink: '/:year/:title/'
+title: MicroBlog
+author: Jekyll Writer
+description: 'Something personal, which is not valuable.'
+permalink: '/:year/:month/:day/:title/'
 markdown: kramdown
